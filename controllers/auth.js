@@ -9,3 +9,7 @@ exports.login = (req, res, next) => {
 exports.forgetPassword = (req, res, next) => {
     res.send('Forgot Password Route');
 };
+
+exports.resetPassword = (req, res, next) => {
+    res.send('Reset Password Route');
+};
