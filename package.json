@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Dragontalker/mern-advanced-authentication#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
   }
 }
